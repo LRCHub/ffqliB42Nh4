@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "We Don't Talk Anymore",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2025-12-31T04:24:54.914504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/01_We_Don't_Talk_Anymore_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/02_We_Don't_Talk_Anymore_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/03_We_Don't_Talk_Anymore_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/04_We_Don't_Talk_Anymore_Various.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We don't talk anymore",
+      "artist": "Cliff Richard",
+      "has_synced": true,
+      "path": "select/05_We_don't_talk_anymore_Cliff_Richard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Sara Farell",
+      "has_synced": true,
+      "path": "select/06_We_Don't_Talk_Anymore_Sara_Farell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Cliff Richard",
+      "has_synced": true,
+      "path": "select/07_We_Don't_Talk_Anymore_Cliff_Richard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/08_We_Don't_Talk_Anymore_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Dont Talk Anymore",
+      "artist": "costabilekidd",
+      "has_synced": true,
+      "path": "select/09_We_Dont_Talk_Anymore_costabilekidd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Sara Farell",
+      "has_synced": true,
+      "path": "select/10_We_Don't_Talk_Anymore_Sara_Farell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/11_We_Don't_Talk_Anymore_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Don’t Talk Anymore",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/12_We_Don’t_Talk_Anymore_Various.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/13_We_Don't_Talk_Anymore_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Ken Block",
+      "has_synced": true,
+      "path": "select/14_We_Don't_Talk_Anymore_Ken_Block.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/15_We_Don't_Talk_Anymore_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore",
+      "artist": "Cliff Richard",
+      "has_synced": true,
+      "path": "select/16_We_Don't_Talk_Anymore_Cliff_Richard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_We_Don't_Talk_Anymore_Charlie_Puth.txt"
+    }
+  ]
+}
